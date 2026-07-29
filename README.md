@@ -40,30 +40,30 @@ The project combines Python, SQL, Power BI and a REST API to demonstrate an end-
 
 
 
-\## 🛠 Technologies Used
+## Tools & Technologies
 
+Programming:
+- Python
+- SQL
 
+Libraries:
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
-\- Python
+Machine Learning:
+- Logistic Regression
+- Random Forest
 
-\- Pandas
+Visualization:
+- Power BI
 
-\- NumPy
-
-\- Scikit-learn
-
-\- SQL
-
-\- Power BI
-
-\- FastAPI
-
-\- Jupyter Notebook
-
-
-
-\---
-
+Development:
+- Jupyter Notebook
+- GitHub
+- FastAPI
 
 
 \## 📂 Project Structure
